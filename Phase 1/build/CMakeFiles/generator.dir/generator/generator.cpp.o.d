@@ -1,5 +1,5 @@
 CMakeFiles/generator.dir/generator/generator.cpp.o: \
- /mnt/c/Users/eduar/OneDrive/Documentos/GitHub/CG-Project/Phase\ 1/generator/generator.cpp \
+ /home/blackparkd/CG-Project/Phase\ 1/generator/generator.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/13/iostream \
  /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
@@ -152,7 +152,7 @@ CMakeFiles/generator.dir/generator/generator.cpp.o: \
  /usr/include/c++/13/ext/aligned_buffer.h \
  /usr/include/c++/13/bits/enable_special_members.h \
  /usr/include/c++/13/bits/erase_if.h \
- /mnt/c/Users/eduar/OneDrive/Documentos/GitHub/CG-Project/Phase\ 1/generator/generatorAux.h \
+ /home/blackparkd/CG-Project/Phase\ 1/generator/generatorAux.h \
  /usr/include/c++/13/vector /usr/include/c++/13/bits/stl_uninitialized.h \
  /usr/include/c++/13/bits/stl_vector.h \
  /usr/include/c++/13/bits/stl_bvector.h \

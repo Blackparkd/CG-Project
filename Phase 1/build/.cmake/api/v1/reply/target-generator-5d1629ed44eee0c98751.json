@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "/mnt/c/Users/eduar/OneDrive/Documentos/GitHub/CG-Project/Phase 1/generator/generator"
+			"path" : "/home/blackparkd/CG-Project/Phase 1/generator/generator"
 		}
 	],
 	"backtrace" : 1,
@@ -24,7 +24,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 31,
+				"line" : 23,
 				"parent" : 0
 			}
 		]

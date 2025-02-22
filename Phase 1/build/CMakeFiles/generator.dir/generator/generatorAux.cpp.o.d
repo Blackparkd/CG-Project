@@ -1,5 +1,5 @@
 CMakeFiles/generator.dir/generator/generatorAux.cpp.o: \
- /mnt/c/Users/eduar/OneDrive/Documentos/GitHub/CG-Project/Phase\ 1/generator/generatorAux.cpp \
+ /home/blackparkd/CG-Project/Phase\ 1/generator/generatorAux.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/13/iostream \
  /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
@@ -162,4 +162,4 @@ CMakeFiles/generator.dir/generator/generatorAux.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
  /usr/include/x86_64-linux-gnu/bits/mathcalls-narrow.h \
  /usr/include/x86_64-linux-gnu/bits/iscanonical.h \
- /mnt/c/Users/eduar/OneDrive/Documentos/GitHub/CG-Project/Phase\ 1/generator/generatorAux.h
+ /home/blackparkd/CG-Project/Phase\ 1/generator/generatorAux.h

@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/generator.dir/generator/generator.cpp.o CMakeFiles/generator.dir/generator/generatorAux.cpp.o -o "/mnt/c/Users/eduar/OneDrive/Documentos/GitHub/CG-Project/Phase 1/generator/generator" 
+/usr/bin/c++ CMakeFiles/generator.dir/generator/generator.cpp.o CMakeFiles/generator.dir/generator/generatorAux.cpp.o -o "/home/blackparkd/CG-Project/Phase 1/generator/generator" 

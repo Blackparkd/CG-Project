@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/mnt/c/Users/eduar/OneDrive/Documentos/GitHub/CG-Project/Phase 1"
+CMAKE_SOURCE_DIR = "/home/blackparkd/CG-Project/Phase 1"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/mnt/c/Users/eduar/OneDrive/Documentos/GitHub/CG-Project/Phase 1/build"
+CMAKE_BINARY_DIR = "/home/blackparkd/CG-Project/Phase 1/build"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/tinyxml2.dir/depend.make
@@ -70,18 +70,18 @@ include CMakeFiles/tinyxml2.dir/progress.make
 include CMakeFiles/tinyxml2.dir/flags.make
 
 CMakeFiles/tinyxml2.dir/external/tinyxml2/tinyxml2.cpp.o: CMakeFiles/tinyxml2.dir/flags.make
-CMakeFiles/tinyxml2.dir/external/tinyxml2/tinyxml2.cpp.o: /mnt/c/Users/eduar/OneDrive/Documentos/GitHub/CG-Project/Phase\ 1/external/tinyxml2/tinyxml2.cpp
+CMakeFiles/tinyxml2.dir/external/tinyxml2/tinyxml2.cpp.o: /home/blackparkd/CG-Project/Phase\ 1/external/tinyxml2/tinyxml2.cpp
 CMakeFiles/tinyxml2.dir/external/tinyxml2/tinyxml2.cpp.o: CMakeFiles/tinyxml2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/mnt/c/Users/eduar/OneDrive/Documentos/GitHub/CG-Project/Phase 1/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/tinyxml2.dir/external/tinyxml2/tinyxml2.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tinyxml2.dir/external/tinyxml2/tinyxml2.cpp.o -MF CMakeFiles/tinyxml2.dir/external/tinyxml2/tinyxml2.cpp.o.d -o CMakeFiles/tinyxml2.dir/external/tinyxml2/tinyxml2.cpp.o -c "/mnt/c/Users/eduar/OneDrive/Documentos/GitHub/CG-Project/Phase 1/external/tinyxml2/tinyxml2.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/home/blackparkd/CG-Project/Phase 1/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/tinyxml2.dir/external/tinyxml2/tinyxml2.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tinyxml2.dir/external/tinyxml2/tinyxml2.cpp.o -MF CMakeFiles/tinyxml2.dir/external/tinyxml2/tinyxml2.cpp.o.d -o CMakeFiles/tinyxml2.dir/external/tinyxml2/tinyxml2.cpp.o -c "/home/blackparkd/CG-Project/Phase 1/external/tinyxml2/tinyxml2.cpp"
 
 CMakeFiles/tinyxml2.dir/external/tinyxml2/tinyxml2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/tinyxml2.dir/external/tinyxml2/tinyxml2.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/mnt/c/Users/eduar/OneDrive/Documentos/GitHub/CG-Project/Phase 1/external/tinyxml2/tinyxml2.cpp" > CMakeFiles/tinyxml2.dir/external/tinyxml2/tinyxml2.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/blackparkd/CG-Project/Phase 1/external/tinyxml2/tinyxml2.cpp" > CMakeFiles/tinyxml2.dir/external/tinyxml2/tinyxml2.cpp.i
 
 CMakeFiles/tinyxml2.dir/external/tinyxml2/tinyxml2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/tinyxml2.dir/external/tinyxml2/tinyxml2.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/mnt/c/Users/eduar/OneDrive/Documentos/GitHub/CG-Project/Phase 1/external/tinyxml2/tinyxml2.cpp" -o CMakeFiles/tinyxml2.dir/external/tinyxml2/tinyxml2.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/blackparkd/CG-Project/Phase 1/external/tinyxml2/tinyxml2.cpp" -o CMakeFiles/tinyxml2.dir/external/tinyxml2/tinyxml2.cpp.s
 
 # Object files for target tinyxml2
 tinyxml2_OBJECTS = \
@@ -93,7 +93,7 @@ tinyxml2_EXTERNAL_OBJECTS =
 libtinyxml2.a: CMakeFiles/tinyxml2.dir/external/tinyxml2/tinyxml2.cpp.o
 libtinyxml2.a: CMakeFiles/tinyxml2.dir/build.make
 libtinyxml2.a: CMakeFiles/tinyxml2.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="/mnt/c/Users/eduar/OneDrive/Documentos/GitHub/CG-Project/Phase 1/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library libtinyxml2.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="/home/blackparkd/CG-Project/Phase 1/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library libtinyxml2.a"
 	$(CMAKE_COMMAND) -P CMakeFiles/tinyxml2.dir/cmake_clean_target.cmake
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/tinyxml2.dir/link.txt --verbose=$(VERBOSE)
 
@@ -106,6 +106,6 @@ CMakeFiles/tinyxml2.dir/clean:
 .PHONY : CMakeFiles/tinyxml2.dir/clean
 
 CMakeFiles/tinyxml2.dir/depend:
-	cd "/mnt/c/Users/eduar/OneDrive/Documentos/GitHub/CG-Project/Phase 1/build" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/mnt/c/Users/eduar/OneDrive/Documentos/GitHub/CG-Project/Phase 1" "/mnt/c/Users/eduar/OneDrive/Documentos/GitHub/CG-Project/Phase 1" "/mnt/c/Users/eduar/OneDrive/Documentos/GitHub/CG-Project/Phase 1/build" "/mnt/c/Users/eduar/OneDrive/Documentos/GitHub/CG-Project/Phase 1/build" "/mnt/c/Users/eduar/OneDrive/Documentos/GitHub/CG-Project/Phase 1/build/CMakeFiles/tinyxml2.dir/DependInfo.cmake" "--color=$(COLOR)"
+	cd "/home/blackparkd/CG-Project/Phase 1/build" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/home/blackparkd/CG-Project/Phase 1" "/home/blackparkd/CG-Project/Phase 1" "/home/blackparkd/CG-Project/Phase 1/build" "/home/blackparkd/CG-Project/Phase 1/build" "/home/blackparkd/CG-Project/Phase 1/build/CMakeFiles/tinyxml2.dir/DependInfo.cmake" "--color=$(COLOR)"
 .PHONY : CMakeFiles/tinyxml2.dir/depend
 

@@ -1,5 +1,5 @@
 CMakeFiles/engine.dir/engine/engine.cpp.o: \
- /mnt/c/Users/eduar/OneDrive/Documentos/GitHub/CG-Project/Phase\ 1/engine/engine.cpp \
+ /home/blackparkd/CG-Project/Phase\ 1/engine/engine.cpp \
  /usr/include/stdc-predef.h /usr/include/GL/glut.h \
  /usr/include/GL/freeglut_std.h /usr/include/GL/gl.h \
  /usr/include/GL/glext.h /usr/include/KHR/khrplatform.h \
@@ -53,7 +53,7 @@ CMakeFiles/engine.dir/engine/engine.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h /usr/include/alloca.h \
  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
  /usr/include/c++/13/bits/std_abs.h \
- /mnt/c/Users/eduar/OneDrive/Documentos/GitHub/CG-Project/Phase\ 1/engine/engine.h \
+ /home/blackparkd/CG-Project/Phase\ 1/engine/engine.h \
  /usr/include/c++/13/vector /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/c++/13/bits/stl_algobase.h \
  /usr/include/c++/13/bits/functexcept.h \
@@ -119,7 +119,7 @@ CMakeFiles/engine.dir/engine/engine.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/types/error_t.h \
  /usr/include/c++/13/bits/charconv.h \
  /usr/include/c++/13/bits/basic_string.tcc \
- /mnt/c/Users/eduar/OneDrive/Documentos/GitHub/CG-Project/Phase\ 1/engine/xmlParser.h \
+ /home/blackparkd/CG-Project/Phase\ 1/engine/xmlParser.h \
  /usr/include/c++/13/fstream /usr/include/c++/13/istream \
  /usr/include/c++/13/ios /usr/include/c++/13/exception \
  /usr/include/c++/13/bits/exception_ptr.h \

@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/mnt/c/Users/eduar/OneDrive/Documentos/GitHub/CG-Project/Phase 1"
+CMAKE_SOURCE_DIR = "/home/blackparkd/CG-Project/Phase 1"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/mnt/c/Users/eduar/OneDrive/Documentos/GitHub/CG-Project/Phase 1/build"
+CMAKE_BINARY_DIR = "/home/blackparkd/CG-Project/Phase 1/build"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/engine.dir/depend.make
@@ -70,49 +70,50 @@ include CMakeFiles/engine.dir/progress.make
 include CMakeFiles/engine.dir/flags.make
 
 CMakeFiles/engine.dir/engine/engine.cpp.o: CMakeFiles/engine.dir/flags.make
-CMakeFiles/engine.dir/engine/engine.cpp.o: /mnt/c/Users/eduar/OneDrive/Documentos/GitHub/CG-Project/Phase\ 1/engine/engine.cpp
+CMakeFiles/engine.dir/engine/engine.cpp.o: /home/blackparkd/CG-Project/Phase\ 1/engine/engine.cpp
 CMakeFiles/engine.dir/engine/engine.cpp.o: CMakeFiles/engine.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/mnt/c/Users/eduar/OneDrive/Documentos/GitHub/CG-Project/Phase 1/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/engine.dir/engine/engine.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/engine.dir/engine/engine.cpp.o -MF CMakeFiles/engine.dir/engine/engine.cpp.o.d -o CMakeFiles/engine.dir/engine/engine.cpp.o -c "/mnt/c/Users/eduar/OneDrive/Documentos/GitHub/CG-Project/Phase 1/engine/engine.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/home/blackparkd/CG-Project/Phase 1/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/engine.dir/engine/engine.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/engine.dir/engine/engine.cpp.o -MF CMakeFiles/engine.dir/engine/engine.cpp.o.d -o CMakeFiles/engine.dir/engine/engine.cpp.o -c "/home/blackparkd/CG-Project/Phase 1/engine/engine.cpp"
 
 CMakeFiles/engine.dir/engine/engine.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/engine.dir/engine/engine.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/mnt/c/Users/eduar/OneDrive/Documentos/GitHub/CG-Project/Phase 1/engine/engine.cpp" > CMakeFiles/engine.dir/engine/engine.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/blackparkd/CG-Project/Phase 1/engine/engine.cpp" > CMakeFiles/engine.dir/engine/engine.cpp.i
 
 CMakeFiles/engine.dir/engine/engine.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/engine.dir/engine/engine.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/mnt/c/Users/eduar/OneDrive/Documentos/GitHub/CG-Project/Phase 1/engine/engine.cpp" -o CMakeFiles/engine.dir/engine/engine.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/blackparkd/CG-Project/Phase 1/engine/engine.cpp" -o CMakeFiles/engine.dir/engine/engine.cpp.s
 
-CMakeFiles/engine.dir/engine/xmlparser.cpp.o: CMakeFiles/engine.dir/flags.make
-CMakeFiles/engine.dir/engine/xmlparser.cpp.o: /mnt/c/Users/eduar/OneDrive/Documentos/GitHub/CG-Project/Phase\ 1/engine/xmlparser.cpp
-CMakeFiles/engine.dir/engine/xmlparser.cpp.o: CMakeFiles/engine.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/mnt/c/Users/eduar/OneDrive/Documentos/GitHub/CG-Project/Phase 1/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/engine.dir/engine/xmlparser.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/engine.dir/engine/xmlparser.cpp.o -MF CMakeFiles/engine.dir/engine/xmlparser.cpp.o.d -o CMakeFiles/engine.dir/engine/xmlparser.cpp.o -c "/mnt/c/Users/eduar/OneDrive/Documentos/GitHub/CG-Project/Phase 1/engine/xmlparser.cpp"
+CMakeFiles/engine.dir/engine/xmlParser.cpp.o: CMakeFiles/engine.dir/flags.make
+CMakeFiles/engine.dir/engine/xmlParser.cpp.o: /home/blackparkd/CG-Project/Phase\ 1/engine/xmlParser.cpp
+CMakeFiles/engine.dir/engine/xmlParser.cpp.o: CMakeFiles/engine.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/home/blackparkd/CG-Project/Phase 1/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/engine.dir/engine/xmlParser.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/engine.dir/engine/xmlParser.cpp.o -MF CMakeFiles/engine.dir/engine/xmlParser.cpp.o.d -o CMakeFiles/engine.dir/engine/xmlParser.cpp.o -c "/home/blackparkd/CG-Project/Phase 1/engine/xmlParser.cpp"
 
-CMakeFiles/engine.dir/engine/xmlparser.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/engine.dir/engine/xmlparser.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/mnt/c/Users/eduar/OneDrive/Documentos/GitHub/CG-Project/Phase 1/engine/xmlparser.cpp" > CMakeFiles/engine.dir/engine/xmlparser.cpp.i
+CMakeFiles/engine.dir/engine/xmlParser.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/engine.dir/engine/xmlParser.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/blackparkd/CG-Project/Phase 1/engine/xmlParser.cpp" > CMakeFiles/engine.dir/engine/xmlParser.cpp.i
 
-CMakeFiles/engine.dir/engine/xmlparser.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/engine.dir/engine/xmlparser.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/mnt/c/Users/eduar/OneDrive/Documentos/GitHub/CG-Project/Phase 1/engine/xmlparser.cpp" -o CMakeFiles/engine.dir/engine/xmlparser.cpp.s
+CMakeFiles/engine.dir/engine/xmlParser.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/engine.dir/engine/xmlParser.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/blackparkd/CG-Project/Phase 1/engine/xmlParser.cpp" -o CMakeFiles/engine.dir/engine/xmlParser.cpp.s
 
 # Object files for target engine
 engine_OBJECTS = \
 "CMakeFiles/engine.dir/engine/engine.cpp.o" \
-"CMakeFiles/engine.dir/engine/xmlparser.cpp.o"
+"CMakeFiles/engine.dir/engine/xmlParser.cpp.o"
 
 # External object files for target engine
 engine_EXTERNAL_OBJECTS =
 
 engine: CMakeFiles/engine.dir/engine/engine.cpp.o
-engine: CMakeFiles/engine.dir/engine/xmlparser.cpp.o
+engine: CMakeFiles/engine.dir/engine/xmlParser.cpp.o
 engine: CMakeFiles/engine.dir/build.make
 engine: /usr/lib/x86_64-linux-gnu/libGL.so
+engine: /usr/lib/x86_64-linux-gnu/libGLU.so
 engine: /usr/lib/x86_64-linux-gnu/libglut.so
 engine: libtinyxml2.a
 engine: CMakeFiles/engine.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="/mnt/c/Users/eduar/OneDrive/Documentos/GitHub/CG-Project/Phase 1/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable engine"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="/home/blackparkd/CG-Project/Phase 1/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable engine"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/engine.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -124,6 +125,6 @@ CMakeFiles/engine.dir/clean:
 .PHONY : CMakeFiles/engine.dir/clean
 
 CMakeFiles/engine.dir/depend:
-	cd "/mnt/c/Users/eduar/OneDrive/Documentos/GitHub/CG-Project/Phase 1/build" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/mnt/c/Users/eduar/OneDrive/Documentos/GitHub/CG-Project/Phase 1" "/mnt/c/Users/eduar/OneDrive/Documentos/GitHub/CG-Project/Phase 1" "/mnt/c/Users/eduar/OneDrive/Documentos/GitHub/CG-Project/Phase 1/build" "/mnt/c/Users/eduar/OneDrive/Documentos/GitHub/CG-Project/Phase 1/build" "/mnt/c/Users/eduar/OneDrive/Documentos/GitHub/CG-Project/Phase 1/build/CMakeFiles/engine.dir/DependInfo.cmake" "--color=$(COLOR)"
+	cd "/home/blackparkd/CG-Project/Phase 1/build" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/home/blackparkd/CG-Project/Phase 1" "/home/blackparkd/CG-Project/Phase 1" "/home/blackparkd/CG-Project/Phase 1/build" "/home/blackparkd/CG-Project/Phase 1/build" "/home/blackparkd/CG-Project/Phase 1/build/CMakeFiles/engine.dir/DependInfo.cmake" "--color=$(COLOR)"
 .PHONY : CMakeFiles/engine.dir/depend
 

@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I"/mnt/c/Users/eduar/OneDrive/Documentos/GitHub/CG-Project/Phase 1/engine" -I"/mnt/c/Users/eduar/OneDrive/Documentos/GitHub/CG-Project/Phase 1/external/tinyxml2"
+CXX_INCLUDES = -I"/home/blackparkd/CG-Project/Phase 1/engine" -I"/home/blackparkd/CG-Project/Phase 1/external/tinyxml2"
 
 CXX_FLAGS = -std=gnu++11
 

@@ -11,7 +11,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/mnt/c/Users/eduar/OneDrive/Documentos/GitHub/CG-Project/Phase 1/build"
+			"value" : "/home/blackparkd/CG-Project/Phase 1/build"
 		},
 		{
 			"name" : "CG_Project_IS_TOP_LEVEL",
@@ -35,7 +35,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/mnt/c/Users/eduar/OneDrive/Documentos/GitHub/CG-Project/Phase 1"
+			"value" : "/home/blackparkd/CG-Project/Phase 1"
 		},
 		{
 			"name" : "CMAKE_ADDR2LINE",
@@ -91,7 +91,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/mnt/c/Users/eduar/OneDrive/Documentos/GitHub/CG-Project/Phase 1/build"
+			"value" : "/home/blackparkd/CG-Project/Phase 1/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -595,7 +595,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/mnt/c/Users/eduar/OneDrive/Documentos/GitHub/CG-Project/Phase 1/build/CMakeFiles/pkgRedirects"
+			"value" : "/home/blackparkd/CG-Project/Phase 1/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -655,7 +655,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/mnt/c/Users/eduar/OneDrive/Documentos/GitHub/CG-Project/Phase 1"
+			"value" : "/home/blackparkd/CG-Project/Phase 1"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
